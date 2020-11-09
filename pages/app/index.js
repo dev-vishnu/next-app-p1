@@ -57,7 +57,7 @@ const App = () => {
                             minHeight: 280,
                         }}
                     >
-                        Content
+                        Hello World
         </Content>
                 </Layout>
             </Layout>
